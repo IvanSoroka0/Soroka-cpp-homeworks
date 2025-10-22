@@ -27,6 +27,5 @@ int main() {
     } else {
         cout << year << " год не является високосным." << endl;
     }
-    
-    return 0;
+      
 }
