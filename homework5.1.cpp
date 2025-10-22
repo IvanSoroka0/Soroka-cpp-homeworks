@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     double r, s;
-    
+    //Вариант 1
     // Спрашиваем радиус
     cout << "Введите радиус круга: ";
     cin >> r;
